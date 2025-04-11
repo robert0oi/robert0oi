@@ -22,7 +22,7 @@ Atualmente sou graduando em Análise e Desenvolvimento de Sistemas.
 </div>  
 
 ## Onde me encontrar: 
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/linkedin.com/in/robertodesouzacamillo">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
   </a>
 
