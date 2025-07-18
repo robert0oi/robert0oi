@@ -1,4 +1,4 @@
-# Hello World! I'm Roberto! 👋  
+# Hello World! 👋  
 
 ## Sobre Mim:
 Sempre fui fascinado por hardware e pela maneira como as coisas funcionam, o que me levou ao mundo do desenvolvimento de software.
